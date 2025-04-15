@@ -1,0 +1,1 @@
+# KiCad-project-and-gerber-for-digisound80-VCO
